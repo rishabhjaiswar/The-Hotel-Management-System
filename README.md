@@ -5,7 +5,7 @@
 that allows the hotel manager to handle all hotel activities online.
 The application of the Hotel Management System bears the 
 following functions to use by the Administrator: 
-<pre><ul>
+<ul>
 <li>Add a new Room</li>
 <li>Add an Employee</li>
 <li>Add a new Customer</li>
@@ -17,5 +17,4 @@ following functions to use by the Administrator:
 </ul>
 
 </h4>
-</pre>
   </h4>
